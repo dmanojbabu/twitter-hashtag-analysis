@@ -13,7 +13,7 @@ def scrap_all_tweets(hashtag,since,until):
     # access twitter, initialize tweepy
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_secret)
-    api = tweepy.API(auth)
+    api = tweepy.API(auth, retry_count=15, retry_delay=100000, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
     # list to hold all the tweets
     base_tweets = []
