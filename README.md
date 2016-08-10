@@ -12,7 +12,7 @@
 7. What is the top 10 most important tweets?
 8. What is the demographics of tweets involved in #kabali?
 
-[Checkout the details at](https://github.com/dmanojbabu/twitter-hashtag-analysis/blob/master/kabali-hastag-analytics.ipynb)
+[Click here to find the details at](https://github.com/dmanojbabu/twitter-hashtag-analysis/blob/master/kabali-hastag-analytics.ipynb)
 
 
 
