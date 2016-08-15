@@ -13,4 +13,4 @@
 8. What is the demographics of tweets involved in #kabali?
 
 [Click here to find the implementation details](https://github.com/dmanojbabu/twitter-hashtag-analysis/blob/master/kabali-hastag-analytics.ipynb)
-[--](https://raw.githubusercontent.com/dmanojbabu/twitter-hashtag-analysis/master/kabali_word_mask.png)
+![Kabali](https://raw.githubusercontent.com/dmanojbabu/twitter-hashtag-analysis/master/kabali_word_mask.png)
